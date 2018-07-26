@@ -13,8 +13,7 @@ Web Application Development
 (In this assignment I was tasked with editing the styles of drop down menus in javascript.)
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://brennanausloos.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
 1. (I learned that the append method inserts content at the end of selected elements.)
